@@ -19,7 +19,7 @@ The code above creates a Scanner object named  and uses it to read a String and 
 
 Hi 5
 
-Our code will print:
+#### Our code will print:
 
 myString is: Hi
 
@@ -27,7 +27,7 @@ myInt is: 5
 
 Alternatively, you can use the BufferedReader class.
 
-Task
+#### Task
 
 In this challenge, you must read  integers from stdin and then print them to stdout. Each integer must be printed on a new line. To make the problem a little easier, a portion of the code is provided for you in the editor below.
 
