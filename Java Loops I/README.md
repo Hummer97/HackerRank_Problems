@@ -6,7 +6,7 @@ In this challenge, we're going to use loops to help us do some simple math.
 
 **Task**
 
-Given an integer, **_N_** , print its first **_10_**  multiples. Each multiple  **_N x i_** (where **_1<= i <= 10_** ) should be printed on a new line in the form: N x i = result.
+Given an integer, **_N_**, print its first **_10_**  multiples. Each multiple  **_N x i_** (where **_1<= i <= 10_** ) should be printed on a new line in the form: N x i = result.
 
 ## Input Format
 
