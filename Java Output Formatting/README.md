@@ -5,14 +5,12 @@ Java's System.out.printf function can be used to print formatted output. The pur
 To get you started, a portion of the solution is provided for you in the editor; you must format and print the input to complete the solution.
 
 ## Input Format
-#
 
 Every line of input will contain a String followed by an integer.
 
 Each String will have a maximum of **_10_** alphabetic characters, and each integer will be in the inclusive range from **_0_** to **_999_**.
 
 ## Output Format
-#
 In each line of output there should be two columns:
 * The first column contains the String and is left justified using exactly **_15_** characters.
 
