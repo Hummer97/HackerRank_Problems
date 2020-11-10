@@ -52,4 +52,4 @@ We have two queries:
     - ***s<sub>3</sub> = 5 + 1 . 3 + 2 . 3 + 4 . 3 + 8 . 3 = 50***
     - ***s<sub>4</sub> = 5 + 1 . 3 + 2 . 3 + 4 . 3 + 8 . 3 + 16 . 3 = 98***
 
-We then print each element of our series as a single line of space-separated values.
+    We then print each element of our series as a single line of space-separated values.
