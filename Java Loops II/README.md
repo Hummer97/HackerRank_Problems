@@ -4,7 +4,7 @@ We use the integers **_a_**, **_b_**, and **_n_**  to create the following serie
 
 **_(a + 2<sup>0</sup> . b), (a + 2<sup>0</sup> . b + 2<sup>1</sup> . b),....., (a + 2<sup>0</sup> . b + 2<sup>1</sup> . b + 2<sup>1</sup> . b + .... + 2<sup>n-1</sup> . b)_** 
 
-You are given **_q_** queries in the form of **_a_**, **_b_**, and **_n_**. For each query, print the series corresponding to the given , , and  values as a single line of **_n_** space-separated integers.
+You are given **_q_** queries in the form of **_a_**, **_b_**, and **_n_**. For each query, print the series corresponding to the given **_a_**, **_b_**, and **_n_** values as a single line of **_n_** space-separated integers.
 
 ## Input Format
 
@@ -36,7 +36,7 @@ For each query, print the corresponding series on a new line. Each series must b
 
 We have two queries:
 
-1. We use ***a = 0***, ***b = 2***, and ***n = 10*** to produce some series :***s<sub>0</sub>, s<sub>1</sub>, s<sub>2</sub>,....., s<sub>n-1</sub>***
+1. We use ***a = 0***, ***b = 2***, and ***n = 10*** to produce some series : ***s<sub>0</sub>, s<sub>1</sub>, s<sub>2</sub>,....., s<sub>n-1</sub>***
     - ***s<sub>0</sub> = 0 + 1 . 2 = 2***
     - ***s<sub>1</sub> = 0 + 1 . 2 + 2 . 2 = 6***
     - ***s<sub>2</sub> = 0 + 1 . 2 + 2 . 2 + 4 . 2 = 14***
@@ -45,7 +45,7 @@ We have two queries:
 
     Once we hit ***n = 10***, we print the first ten terms as a single line of space-separated integers.
 
-2. We use ***a = 5***, ***b = 3***, and ***n = 5*** to produce some series :***s<sub>0</sub>, s<sub>1</sub>, s<sub>2</sub>,....., s<sub>n-1</sub>***
+2. We use ***a = 5***, ***b = 3***, and ***n = 5*** to produce some series : ***s<sub>0</sub>, s<sub>1</sub>, s<sub>2</sub>,....., s<sub>n-1</sub>***
     - ***s<sub>0</sub> = 5 + 1 . 3 = 8***
     - ***s<sub>1</sub> = 5 + 1 . 3 + 2 . 3 = 14***
     - ***s<sub>2</sub> = 5 + 1 . 3 + 2 . 3 + 4 . 3= 26***
